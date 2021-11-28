@@ -1,0 +1,18 @@
+.MuiAppBar-root {
+  height: 6vh;
+}
+
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  .MuiButtonGroup-root {
+    height: 80%;
+  }
+  #logoBtn {
+    color: black;
+    height: 98%;
+    width: 100px;
+    font-size: 100%;
+  }
+}

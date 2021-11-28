@@ -1,0 +1,11 @@
+.createPostForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 100%;
+  //   width: 80%;
+  .MuiTextField-root {
+    width: 80%;
+  }
+}
